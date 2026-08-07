@@ -1,4 +1,3 @@
-# 100-days-of-rtl
 
 # 🚀 100 Days RTL Design Challenge
 
@@ -10,23 +9,7 @@ In this repository, I solve one RTL design problem every day using **Verilog HDL
 
 - Verilog HDL
 - Icarus Verilog / Vivado Simulator
-- GTKWave
-- Visual Studio Code
 - Git & GitHub
-
-## 📂 Repository Structure
-
-```
-Day-01/
-Day-02/
-Day-03/
-...
-```
-
-Each folder contains:
-- RTL Design (`.v`)
-- Testbench (`tb.v`)
-- README with explanation
 
 
 ## 📈 Goal
