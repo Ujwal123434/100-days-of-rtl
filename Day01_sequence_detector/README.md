@@ -357,8 +357,3 @@ A Mealy FSM would require fewer states and can assert the output in the same clo
 
 ---
 
-## 👨‍💻 Author
-
-**Ujwal Kumar L**
-
-**100 Days RTL Design Challenge 🚀**
