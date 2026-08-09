@@ -19,11 +19,7 @@ In this repository, I solve one RTL design problem every day using **Verilog HDL
 - Build a strong VLSI portfolio
 - Prepare for RTL Design interviews
 
-## ⭐ Progress
 
-- ✅ Day 1 - Sequence Detector (Moore FSM)
-
-More projects will be added daily.
 
 ---
 
