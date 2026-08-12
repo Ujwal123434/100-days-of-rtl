@@ -1,4 +1,4 @@
-# Day 03 — Synchronous FIFO (Full/Empty Flags)
+# Day 04 — Synchronous FIFO (Full/Empty Flags)
 
 ## Question of the Day
 
