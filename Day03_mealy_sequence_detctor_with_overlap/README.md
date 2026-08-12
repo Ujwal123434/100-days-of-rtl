@@ -1,4 +1,4 @@
-# Day 03 - Sequence Detector `1101` — Overlap, One-Hot, Mealy, Sync Reset | Verilog RTL
+# Day 03 - Sequence Detector `1101` — Overlap, One-Hot, Mealy, Sync Reset | Verilog RTL 
 
 ## 📌 Problem Statement
 
