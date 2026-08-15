@@ -53,7 +53,6 @@ endmodule
 
 ## 🧪 Testbench
 
-> _Paste your testbench code here._
 
 **Verification method:** exhaustive sweep of all 16 input combinations (`in = 4'b0000` through `4'b1111`), waveform-checked in simulation.
 
