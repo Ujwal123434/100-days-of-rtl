@@ -1,4 +1,4 @@
-## 🔍 Day 08 — Binary ↔ Gray Code Converter
+## 🔍 Day 09 — Binary ↔ Gray Code Converter
 
 ### 📌 Question of the Day
 
