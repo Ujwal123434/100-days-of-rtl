@@ -1,4 +1,4 @@
-## 🔍 Day 07b — Parameterized Synchronous LIFO Stack
+## 🔍 Day 07 -- Parameterized Synchronous LIFO Stack
 
 ## 📌 Question of the Day
 
