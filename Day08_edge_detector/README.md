@@ -1,4 +1,4 @@
-## 🔍 Day 07 — Edge Detector (Rising & Falling)
+## 🔍 Day 08 — Edge Detector (Rising & Falling)
 
 ### 📌 Question of the Day
 
